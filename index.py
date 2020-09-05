@@ -13,7 +13,7 @@ from threading import *
 
 yt = Tk()
 yt.title("You Tube Downloader");
-messagebox.showinfo("Welcome")
+
 #yt.iconbitmap('icon.ico')
 #check later icon not uploaded
 yt.configure(background="#263d42")
